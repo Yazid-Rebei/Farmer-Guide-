@@ -42,7 +42,7 @@ Capteurs → ESP32 → Traitement & IA → Actions (pompe, alertes) → Interfac
 
 
  🧠 Principe d’architecture recommandé
-
+```
 main (setup / loop)
 │
 ├── Acquisition capteurs
@@ -101,7 +101,7 @@ AACG/
 │
 ├── docs/
 
-
+```
 ## 🧩 Rôle de chaque partie
 
 ### 🔹 `main.cpp` (ORCHESTRATEUR)
