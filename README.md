@@ -53,13 +53,14 @@ main (setup / loop)
 └── Supervision système
 
 
+
 📁 Structure complète du projet (recommandée)
 
 AACG/
 │
 ├── firmware/
 │   ├── src/
-│   │   ├── main.cpp              ← Programme principal
+│   │   ├── main.cpp       
 │   │   │
 │   │   ├── sensors/
 │   │   │   ├── air_sensor.h
